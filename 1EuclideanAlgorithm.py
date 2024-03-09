@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 print("Enter integers for which gcd is to be computed:")
 x = int(input("Enter first integer:"))
 y = int(input("Enter second integer:"))

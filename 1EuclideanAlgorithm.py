@@ -14,4 +14,4 @@ while r != 0:
     a, b = b, r
     r = a % b
 
-print("GCD({},{})={}".format(x,y,b))
+print("GCD({},{})={}".format(x, y, b))

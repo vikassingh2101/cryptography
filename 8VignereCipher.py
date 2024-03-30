@@ -1,5 +1,7 @@
 # Polyalphabetic substitution cipher
 # C = C0,C1,...,Cn-1 = E[(k0,k1,...,km-1) , (p0,p1,...,pn-1)] where m < n
+# Ci = (pi + kimodm) mod 26
+# Pi = (ci - kimodm) mod 26
 
 
 def encryption(key, plaintext):

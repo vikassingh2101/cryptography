@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python
 
 print("Enter integers for which gcd is to be computed:")
 x = int(input("Enter first integer:"))

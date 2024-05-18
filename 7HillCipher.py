@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # Multi-letter encryption cipher
 # Involves matrix multiplication
 # C = PK mod 26

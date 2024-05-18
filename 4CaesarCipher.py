@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # Replaces each letter with a letter standing k places down
 # Wrapped around when end is reached
 # C = E(k,P) = (p+k) mod 26

@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # Multi-letter encryption cipher
 # 5 x 5 matrix of letters
 # To make accurate depiction, 2-d martrix has been used

@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # Replaces each letter with a letter from key space
 # One to one mapping between plaintext alphabet and ciphertext alphabet
 # Assumptions:

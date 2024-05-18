@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # Polyalphabetic substitution cipher - One to many substitution
 # Key length same as plaintext length
 # C = C0,C1,...,Cn-1 = E[(k0,k1,...,kn-1) , (p0,p1,...,pn-1)]
